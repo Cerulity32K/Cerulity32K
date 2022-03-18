@@ -1,1 +1,1 @@
-you and i are cool
+we are cool
