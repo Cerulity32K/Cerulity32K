@@ -7,5 +7,5 @@ My goals are to learn and teach as much as possible, and to bring as much to the
 # Links
 [![YouTube](https://img.shields.io/badge/YouTube-Cerulity-dd2222?labelColor=222222&logo=youtube)](https://www.youtube.com/@cerulity32k)
 [![tumblr](https://img.shields.io/badge/tumblr-cerulity-555588?labelColor=222222&logo=tumblr)](https://cerulity.tumblr.com)
-# Achievments
+# Achievements
 FRC 2022-2023: Our team won the Provincial Championship and was invited to the World Championships. I designed and created an app to streamline data entry to form better alliances. I also designed a much more developer-ergonomic, interface-based system for autonomous code, as opposed to autonomous based on switch statement sequences.
