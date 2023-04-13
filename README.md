@@ -5,7 +5,20 @@ My name is Ethan Barry. I am a software engineering student based in Canada. I e
 I experiment with a multitude of languages and designs. Sometimes, they turn into full projects.
 
 # Skills
-I am proficient in Rust, C#, Python, C++ and CUDA, and familiar with Lua, Java, TypeScript, Julia and MySQL.\
+I am proficient in:
+- Rust
+- C#
+- Python
+- C++
+- CUDA
+
+and familiar with:
+- Lua
+- Java
+- TypeScript
+- Julia
+- MySQL
+
 I have great logical and analytical skills and can figure out and solve problems when coding.\
 I am empathetic, understanding, collaborative and fun to work with.\
 I can tutor others and teach them how to improve on their skills in a non-condescending way.
