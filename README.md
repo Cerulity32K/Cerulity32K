@@ -10,7 +10,10 @@ I am proficient in:
 - C#
 - Python
 - C++
+
+Intermediate in:
 - CUDA
+- Dart/Flutter
 
 and familiar with:
 - Lua
@@ -18,6 +21,7 @@ and familiar with:
 - TypeScript
 - Julia
 - MySQL
+- Kotlin
 
 I have great logical and analytical skills and can figure out and solve problems when coding.\
 I am empathetic, understanding, collaborative and fun to work with.\
@@ -35,8 +39,7 @@ FRC 2022-2023: Our team won the Provincial Championship and was invited to the W
 # Major Projects
 I have many projects. These are projects that I've developed the furthest.
 
-MH 7.1 Clickbot (Rust, Complete): https://github.com/Cerulity64X/mh71_clickbot
-
-EPAR (Rust, Incomplete): https://github.com/Cerulity64X/epar
-
-Limbo Keys (C#, Complete): https://github.com/Cerulity64X/LimboKeys
+- MH 7.1 Clickbot (Rust, Complete): https://github.com/Cerulity64X/mh71_clickbot
+- EPAR (Rust, Incomplete): https://github.com/Cerulity64X/epar
+- Limbo Keys (C#, Complete): https://github.com/Cerulity64X/LimboKeys
+- Scouting2200 (Flutter, Complete): https://github.com/Cerulity64X/Scouting2200Flutter
