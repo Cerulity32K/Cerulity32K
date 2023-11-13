@@ -24,7 +24,7 @@ I am empathetic, understanding, collaborative and fun to work with.\
 I can tutor others and teach them how to improve on their skills in a non-condescending way.
 
 # Goals
-My goals are to learn and teach as much as possible, and to bring as much to the FOSS community as I can. Whether that be through contributions to large or small repositories or libraries/utilities I make/start myself, I hope to provide as much as possible.
+My goals are to learn and teach as much as possible, and to bring as much to the FOSS community as I can. Whether that be through contributions to large or small repositories or libraries/utilities I make/start myself, I hope to provide as much as possible. I also hope to one day be able to help secure systems at government level.
 
 # Links
 [![YouTube](https://img.shields.io/badge/YouTube-Cerulity-dd2222?labelColor=222222&logo=youtube)](https://www.youtube.com/@cerulity32k)
