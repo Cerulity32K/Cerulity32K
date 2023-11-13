@@ -31,3 +31,10 @@ My goals are to learn and teach as much as possible, and to bring as much to the
 
 # Achievements
 FRC 2022-2023: Our team won the Provincial Championship and was invited to the World Championships. I designed and created an app to streamline data entry to form better alliances. I also designed a much more developer-ergonomic, interface-based system for autonomous code, as opposed to autonomous based on switch statement sequences.
+
+# Major Projects
+I have many projects. These are projects that I've developed the furthest.
+
+MH 7.1 Clickbot (Rust, Complete): https://github.com/Cerulity64X/mh71_clickbot\
+EPAR (Rust, Incomplete): https://github.com/Cerulity64X/epar\
+Limbo Keys (C#, Complete): https://github.com/Cerulity64X/LimboKeys
