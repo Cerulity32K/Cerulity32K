@@ -35,6 +35,8 @@ FRC 2022-2023: Our team won the Provincial Championship and was invited to the W
 # Major Projects
 I have many projects. These are projects that I've developed the furthest.
 
-MH 7.1 Clickbot (Rust, Complete): https://github.com/Cerulity64X/mh71_clickbot\
-EPAR (Rust, Incomplete): https://github.com/Cerulity64X/epar\
+MH 7.1 Clickbot (Rust, Complete): https://github.com/Cerulity64X/mh71_clickbot
+
+EPAR (Rust, Incomplete): https://github.com/Cerulity64X/epar
+
 Limbo Keys (C#, Complete): https://github.com/Cerulity64X/LimboKeys
