@@ -1,8 +1,8 @@
 # About Me
-My name is Ethan Barry. I am a software engineering student based in Canada. I enjoy programming and biking in my free time.
+My name is Ethan Barry. I am a software engineering student based in Canada. I enjoy programming and music in my free time.
 
 # What I Do
-I experiment with a multitude of languages and designs. Sometimes, they turn into full projects.
+I experiment with a multitude of languages and designs. Sometimes, they turn into full projects. In my school's FRC (FIRST Robotics Competition) team, I help design sofware for the robot and other things, and I also bringing new ideas to the table.
 
 # Skills
 I am proficient in:
@@ -10,14 +10,15 @@ I am proficient in:
 - C#
 - Python
 - C++
+- C
 
 Intermediate in:
 - CUDA
 - Dart/Flutter
+- Java
 
 and familiar with:
 - Lua
-- Java
 - TypeScript
 - Julia
 - MySQL
@@ -34,7 +35,9 @@ My goals are to learn and teach as much as possible, and to bring as much to the
 [![YouTube](https://img.shields.io/badge/YouTube-Cerulity-dd2222?labelColor=222222&logo=youtube)](https://www.youtube.com/@cerulity32k)
 
 # Achievements
-FRC 2022-2023: Our team won the Provincial Championship and was invited to the World Championships. I designed and created an app to streamline data entry to form better alliances. I also designed a much more developer-ergonomic, interface-based system for autonomous code, as opposed to autonomous based on switch statement sequences.
+FRC 2022-2023 (Charged Up): Our team (2200) won the Provincial Championship and was invited to the World Championship. Unfortunately, this was unanticipated and we did not have enough time to schedule transportation. However, I designed and created an app in Xamarin (C#) to streamline data entry to form better alliances. I also designed a much more developer-ergonomic, interface-based system for autonomous code, as opposed to autonomous based on switch statement sequences.
+
+FRC 2023-2024 (Crescendo): Our team qualified for the World Championship, and this year we were able to go. I rewrote my scouting app in Flutter (Dart), and adapted it to this year's game. This made the app much more responsive, and extra functionality was added to ensure that it was user-friendly. For example, in the start of the match, the starting location of the robot and locations of picked up game pieces is mimicked visually inside the app. The app was also improved visually compared to the 2022-2023 version of the app.
 
 # Major Projects
 I have many projects. These are projects that I've developed the furthest.
