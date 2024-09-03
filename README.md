@@ -33,7 +33,7 @@ My goals are to learn and teach as much as possible, and to bring as much to the
 
 # Links
 [![YouTube](https://img.shields.io/badge/YouTube-Cerulity-dd2222?labelColor=222222&logo=youtube)](https://www.youtube.com/@cerulity32k)
-[![GitHub Page](https://img.shields.io/badge/GitHub%20Page-Ethan%20Barry-663366?labelColor=222222&logo=github)](https://cerulity32k.github.io)
+[![GitHub Page](https://img.shields.io/badge/GitHub%20Page-Kali%20Barry-663366?labelColor=222222&logo=github)](https://cerulity32k.github.io)
 
 # Achievements
 FRC 2022-2023 (Charged Up): Our team (2200) won the Provincial Championship and was invited to the World Championship. Unfortunately, this was unanticipated and we did not have enough time to schedule transportation. However, I designed and created an app in Xamarin (C#) to streamline data entry to form better alliances. I also designed a much more developer-ergonomic, interface-based system for autonomous code, as opposed to autonomous based on switch statement sequences.
