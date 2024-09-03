@@ -1,5 +1,5 @@
 # About Me
-My name is Ethan Barry. I am a software engineering student based in Canada. I enjoy programming and music in my free time.
+My name is Kali Barry. I am a software engineering student based in Canada. I enjoy programming and music in my free time.
 
 # What I Do
 I experiment with a multitude of languages and designs. Sometimes, they turn into full projects. In my school's FRC (FIRST Robotics Competition) team, I help design sofware for the robot and other things, and I also bringing new ideas to the table.
@@ -33,6 +33,7 @@ My goals are to learn and teach as much as possible, and to bring as much to the
 
 # Links
 [![YouTube](https://img.shields.io/badge/YouTube-Cerulity-dd2222?labelColor=222222&logo=youtube)](https://www.youtube.com/@cerulity32k)
+[![GitHub Page](https://img.shields.io/badge/GitHub%20Page-Ethan%20Barry-663366?labelColor=222222&logo=github)](https://cerulity32k.github.io)
 
 # Achievements
 FRC 2022-2023 (Charged Up): Our team (2200) won the Provincial Championship and was invited to the World Championship. Unfortunately, this was unanticipated and we did not have enough time to schedule transportation. However, I designed and created an app in Xamarin (C#) to streamline data entry to form better alliances. I also designed a much more developer-ergonomic, interface-based system for autonomous code, as opposed to autonomous based on switch statement sequences.
@@ -42,7 +43,9 @@ FRC 2023-2024 (Crescendo): Our team qualified for the World Championship, and th
 # Major Projects
 I have many projects. These are projects that I've developed the furthest.
 
-- MH 7.1 Clickbot (Rust, Complete): https://github.com/Cerulity64X/mh71_clickbot
-- EPAR (Rust, Incomplete): https://github.com/Cerulity64X/epar
-- Limbo Keys (C#, Complete): https://github.com/Cerulity64X/LimboKeys
-- Scouting2200 (Flutter, Complete): https://github.com/Cerulity64X/Scouting2200Flutter
+- MH 7.1 Clickbot (Rust, Complete): https://github.com/Cerulity32K/mh71_clickbot
+- EPAR (Rust with Macroquad, Under rewrite!): https://github.com/Cerulity32K/epar
+- Limbo Keys (C# with MonoGame, Complete): https://github.com/Cerulity32K/LimboKeys
+- Scouting2200 (Dart with Flutter, Complete): https://github.com/Cerulity32K/Scouting2200Flutter
+- C9H20 (CUDA with WinGDI, Complete): https://github.com/Cerulity32K/c9h20_cuda
+- Pointstorms (C++ with OpenGL, Complete (but further extensible)): https://github.com/Cerulity32K/pointstorms
