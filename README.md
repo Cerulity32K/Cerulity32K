@@ -49,3 +49,4 @@ I have many projects. These are projects that I've developed the furthest.
 - Scouting2200 (Dart with Flutter, Complete): https://github.com/Cerulity32K/Scouting2200Flutter
 - C9H20 (CUDA with WinGDI, Complete): https://github.com/Cerulity32K/c9h20_cuda
 - Pointstorms (C++ with OpenGL, Complete (but further extensible)): https://github.com/Cerulity32K/pointstorms
+- RV32E Emulator (Rust): https://github.com/Cerulity32K/rv32e_emulator
